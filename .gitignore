@@ -1,0 +1,21 @@
+# Virtual muhit
+venv/
+.venv/
+env/
+.env
+# Maxfiy sozlamalar (Tokenlar)
+.env
+
+# Ma'lumotlar bazasi fayllari
+*.db
+*.sqlite3
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+
+
+.env
+.idea
+.idea/
+
